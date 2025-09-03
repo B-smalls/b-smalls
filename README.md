@@ -32,5 +32,5 @@
 
 ## Связаться
 - Email: kuzn.dev@gmail.com  
-- Telegram: @your_handle  
+- Telegram: @man21_m 
 

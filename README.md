@@ -4,6 +4,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.x-informational)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.x-informational)
 ![Docker](https://img.shields.io/badge/Docker-Compose-informational)
+![LeetCode Stats](https://leetcard.jacoblin.cool/b-smalls?theme=dark&font=Readex%20Pro)
 
 # Backend Developer (Go / Python)
 
